@@ -1,3 +1,8 @@
 1. ctrl + S (save)
 2. ctrl + shift + B (Compiled)
 3  Run Deugger (Done)
+
+
+done 
+this new
+here
